@@ -1,0 +1,2 @@
+python Server.py 1030
+python ClientLauncher.py QUAN 1030 5026 movie.mjpeg movie1.mjpeg movie2.mjpeg movie3.mjpeg
